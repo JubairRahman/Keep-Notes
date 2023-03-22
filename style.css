@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: #7bdaf3;
+  background-color: #221E22;
   font-family: 'Poppins', sans-serif;
   display: flex;
   flex-wrap: wrap;
@@ -31,7 +31,7 @@ body {
 }
 
 .note {
-  background-color: #fff;
+  background-color: #1A1D1A;
   box-shadow: 0 0 10px 4px rgba(0, 0, 0, 0.1);
   margin: 30px 20px;
   height: 400px;
